@@ -8,7 +8,7 @@ sudo systemctl status docker
 sudo systemctl start docker
 sudo systemctl enable docker
 ```
-### docker compose install
+### Docker Compose install
 
 ```
 sudo curl -L "https://github.com/docker/compose/releases/download/1.23.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose

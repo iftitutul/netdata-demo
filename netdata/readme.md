@@ -3,3 +3,9 @@
 
 ### Stop the Docker-compose file
 `docker-compose down`
+
+### Check the URL 
+`http://localhost:19999`
+
+## Check the netdata configuration
+`http://localhost:19999/netdata.conf`

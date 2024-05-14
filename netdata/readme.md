@@ -1,5 +1,5 @@
 ### Run the Docker-compose file
 `docker-compose up -d`
 
-### stop the Docker-compose file
+### Stop the Docker-compose file
 `docker-compose down`

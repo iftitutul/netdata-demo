@@ -7,5 +7,5 @@
 ### Check the URL 
 `http://localhost:19999`
 
-## Check the netdata configuration
+### Check the netdata configuration
 `http://localhost:19999/netdata.conf`

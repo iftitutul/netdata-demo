@@ -1,4 +1,4 @@
-### Yum repo install on Centos 7
+### Docker install on Centos 7 using yum repo
 
 ```
 sudo yum install -y yum-utils
